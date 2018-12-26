@@ -9,8 +9,7 @@ Homework 5 for Convex Optimization (PKU)
 2. Solve by calling mosek and gurobi directly.
 
 3.
-(a) Projection gradient method by reformulating the primal problem as a quadratic program with box con-
-straints
+(a) Projection gradient method by reformulating the primal problem as a quadratic program with box constraints
 
 (b) Subgradient method for the primal problem
 
